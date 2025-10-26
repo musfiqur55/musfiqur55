@@ -1,8 +1,4 @@
-<header>
-  <div align="center">
-    <a href="https://app.daily.dev/mushfiqurrahman"><img src="sayed-bg.png" width="400" alt="Musfiqur Rahman's Dev Card"/></a>
-  </div>
-</header>
+
 
 <a href="https://musfiqurrahmansayed.netlify.app"><img src="musfiq.gif" width="1000" height="400" alt="Musfiqur Rahman"/></a>
 #### Android || Kotlin || Java || Excel || SQL || Power BI || Django || Python || Data Analytics || Machine Learning || Artificial Intelligence || Flutter
